@@ -247,6 +247,7 @@
     <string name="volte_icon_miui">MIUI 11 Icon</string>
     <string name="volte_icon_emui">EMUI Icon</string>
     <string name="volte_icon_oos10">OOS 10 Icon</string>
+    <string name="volte_icon_sony">Sony Icon</string>
 
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Swipe to screenshot</string>
@@ -841,6 +842,7 @@
     <string name="fod_pressed_color_cyan">Cyan</string>
     <string name="fod_pressed_color_green">Green</string>
     <string name="fod_pressed_color_yellow">Yellow</string>
+    <string name="fod_pressed_color_vivo_cyan">Vivo Cyan</string>
 
      <!-- Gaming mode -->
     <string name="gaming_mode_title">Gaming Mode</string>

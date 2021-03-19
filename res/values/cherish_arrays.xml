@@ -119,6 +119,7 @@
         <item>@string/volte_icon_oos</item>
         <item>@string/volte_icon_volte</item>
         <item>@string/volte_icon_oos10</item>
+        <item>@string/volte_icon_sony</item>
     </string-array>
 
     <string-array name="volte_icon_type_values" translatable="false">
@@ -131,6 +132,7 @@
         <item>6</item>
         <item>7</item>
         <item>8</item>
+        <item>9</item>
     </string-array>
 
     <!-- VoWiFi Icon -->
@@ -897,6 +899,7 @@
         <item>@string/fod_pressed_color_cyan</item>
         <item>@string/fod_pressed_color_green</item>
         <item>@string/fod_pressed_color_yellow</item>
+        <item>@string/fod_pressed_color_vivo_cyan</item>
     </string-array>
 
     <string-array name="fod_pressed_color_values" translatable="false">
@@ -904,6 +907,7 @@
         <item>1</item>
         <item>2</item>
         <item>3</item>
+        <item>4</item>
     </string-array>
 
     <!-- Gaming mode -->
